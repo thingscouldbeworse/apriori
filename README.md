@@ -1,2 +1,2 @@
 # apriori
-Not a complete apriori algorithm, only returns pairs. Also uses combinations but oh well. 
+Only completed to extent needed for class, so only returns pairs
